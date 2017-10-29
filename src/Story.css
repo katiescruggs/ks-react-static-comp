@@ -29,3 +29,26 @@
   line-height: 150%;
   margin: 0;
 }
+
+@media screen and (max-width: 1000px) {
+  .Story {
+    flex-direction: column;
+    height: 275px;
+  }
+
+  .Story img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+  }
+
+  .story-info {
+    height: 175px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .Story {
+    min-width: 100%;
+  }
+}

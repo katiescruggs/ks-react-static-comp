@@ -9,7 +9,7 @@
   align-items: center;
 }
 
-.author-image {
+.Story .author-image {
   max-width: 35px;
   height: 35px;
   border-radius: 50px;
