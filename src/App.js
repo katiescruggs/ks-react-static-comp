@@ -32,7 +32,7 @@ const stories = [
   },
   {
     img: './public/story4.jpg',
-    title: 'How to Improve Learning and Classroom Engagement with Humor',
+    title: 'How to Improve Learning with Humor',
     desc: 'Okay, so first of all, everybody knows fart jokes are hilarious ...',
     authImg: './public/pamela.png',
     authName: 'Pamela',

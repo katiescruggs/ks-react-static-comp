@@ -24,3 +24,18 @@ h1 {
   font-weight: bolder;
   margin: 0;
 }
+
+@media screen and (max-width: 700px) {
+  a {
+    text-align: right;
+    width: 40%;
+  }
+
+  .first-a {
+    display: none;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+}
